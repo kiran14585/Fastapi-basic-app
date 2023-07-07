@@ -6,3 +6,4 @@ def addition1(number1,number2):
         content={"success": True, "res": res},
         status_code=200,
     )
+
